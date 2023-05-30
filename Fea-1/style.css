@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+.bg {
+    border: 2px solid rgb(20, 20, 20);
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px auto;
+    width: 40em;
+}
+img {
+    width: 160px;
+}
+.osobni-informace {
+    position: relative;
+}
+.p-absolute{
+    position: absolute;
+    top: 80px;
+    left: 200px;
+}
+table {
+    box-sizing: content-box;
+}
+td {
+    border: 2px solid;
+    padding: 8px;
+}
+.pracovni-zkusenosti, .dovednosti {
+    line-height: 26px;
+}
